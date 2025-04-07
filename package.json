@@ -1,0 +1,24 @@
+{
+  "name": "fake-api-mentore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "ts-node server.ts",
+  "build": "tsc",
+  "start": "node dist/server.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/json-server": "^0.14.8",
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
