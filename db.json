@@ -2067,453 +2067,503 @@
     "collaborators": [
     {
       "id": "1",
-      "name": "Ana Souza",
-      "document": "735.128.469-55",
-      "registration": "2023-02-25",
-      "status": "Ativo",
-      "costCenter": "Custo A",
-      "telephone": "+55 (021) 1647-1247"
+      "name": "Beatriz Carvalho",
+      "document": "409.733.806-14",
+      "status": "Desligamento a confirmar",
+      "costCenter": "Custo B",
+      "admissionDate": "2020-01-07",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "2",
-      "name": "Theo Vieira",
-      "document": "493.572.601-61",
-      "registration": "2021-10-01",
-      "status": "Inativo",
+      "name": "Diego Duarte",
+      "document": "477.416.181-58",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "71 1019 9888"
+      "admissionDate": "2025-05-04",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "3",
-      "name": "Rafael Correia",
-      "document": "951.647.023-80",
-      "registration": "2021-02-22",
-      "status": "Inativo",
+      "name": "Vinícius Silva",
+      "document": "152.409.461-59",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "+55 51 9808 0957"
+      "admissionDate": "2023-04-25",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "4",
-      "name": "Renan da Cruz",
-      "document": "650.973.182-77",
-      "registration": "2022-02-10",
-      "status": "Pendente",
+      "name": "Rafael Porto",
+      "document": "921.795.493-93",
+      "status": "Intermitente",
       "costCenter": "Custo B",
-      "telephone": "+55 (061) 7548-6495"
+      "admissionDate": "2025-09-09",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "5",
-      "name": "Sr. Antônio Novaes",
-      "document": "506.834.721-35",
-      "registration": "2021-12-26",
-      "status": "Inativo",
-      "costCenter": "Custo B",
-      "telephone": "(081) 3099 9211"
+      "name": "Augusto da Cruz",
+      "document": "649.318.186-15",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2025-05-06",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "6",
-      "name": "Rafael Dias",
-      "document": "216.835.470-71",
-      "registration": "2022-04-17",
-      "status": "Inativo",
-      "costCenter": "Custo A",
-      "telephone": "81 3896 0093"
+      "name": "Catarina Peixoto",
+      "document": "515.234.852-54",
+      "status": "Suspenso",
+      "costCenter": "Custo B",
+      "admissionDate": "2022-04-06",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "7",
-      "name": "Yasmin Porto",
-      "document": "283.419.750-41",
-      "registration": "2022-10-18",
-      "status": "Pendente",
+      "name": "Teixeira Santos",
+      "document": "121.325.658-16",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "+55 (071) 0062 9959"
+      "admissionDate": "2022-07-08",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "8",
-      "name": "Diogo Fernandes",
-      "document": "162.537.840-80",
-      "registration": "2020-10-03",
-      "status": "Pendente",
+      "name": "Yasmin Teixeira",
+      "document": "958.303.850-49",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "(071) 8297-1600"
+      "admissionDate": "2022-03-15",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "9",
-      "name": "Luiz Fernando Martins",
-      "document": "718.230.465-17",
-      "registration": "2021-05-09",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "+55 51 1072 7929"
+      "name": "Natália Cardoso",
+      "document": "244.774.388-42",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-12-09",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "10",
-      "name": "Benício Duarte",
-      "document": "172.938.064-69",
-      "registration": "2021-12-29",
-      "status": "Inativo",
+      "name": "Teixeira Peixoto",
+      "document": "419.916.413-30",
+      "status": "Suspenso",
       "costCenter": "Custo B",
-      "telephone": "+55 81 6792-2297"
+      "admissionDate": "2020-10-27",
+      "onboarding": "Parcial",
+      "regime": "Intermitente"
     },
     {
       "id": "11",
-      "name": "Catarina Mendes",
-      "document": "068.723.459-00",
-      "registration": "2023-05-08",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "84 9918 7436"
+      "name": "Diego Nunes",
+      "document": "621.860.129-79",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2024-01-27",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "12",
-      "name": "Sr. Levi Carvalho",
-      "document": "920.475.836-83",
-      "registration": "2023-09-17",
-      "status": "Pendente",
+      "name": "Antônio Lopes",
+      "document": "937.363.986-79",
+      "status": "Ativo",
       "costCenter": "Custo B",
-      "telephone": "+55 (021) 4265-5378"
+      "admissionDate": "2021-03-14",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "13",
-      "name": "Otávio da Cunha",
-      "document": "160.529.873-59",
-      "registration": "2024-03-01",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "51 6315 7702"
+      "name": "Matheus Nogueira",
+      "document": "435.195.579-58",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2020-11-14",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "14",
-      "name": "Ana Julia Freitas",
-      "document": "283.967.451-37",
-      "registration": "2022-01-09",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "21 0211-9526"
+      "name": "Beatriz Nunes",
+      "document": "245.613.932-51",
+      "status": "Desligado",
+      "costCenter": "Custo A",
+      "admissionDate": "2021-10-01",
+      "onboarding": "Parcial",
+      "regime": "Intermitente"
     },
     {
       "id": "15",
-      "name": "Maria Julia Farias",
-      "document": "953.861.027-02",
-      "registration": "2021-09-07",
-      "status": "Ativo",
+      "name": "Caio Monteiro",
+      "document": "760.178.105-25",
+      "status": "Desligado",
       "costCenter": "Custo B",
-      "telephone": "84 0075 7998"
+      "admissionDate": "2023-06-26",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "16",
-      "name": "Melissa Nogueira",
-      "document": "308.129.457-60",
-      "registration": "2023-05-24",
-      "status": "Inativo",
+      "name": "Fernanda Carvalho",
+      "document": "378.383.874-55",
+      "status": "Intermitente",
       "costCenter": "Custo B",
-      "telephone": "51 3768 7105"
+      "admissionDate": "2022-08-15",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "17",
-      "name": "Eduardo Lopes",
-      "document": "345.987.016-84",
-      "registration": "2022-04-19",
-      "status": "Pendente",
+      "name": "Julia Novaes",
+      "document": "688.147.622-13",
+      "status": "Suspenso",
       "costCenter": "Custo B",
-      "telephone": "+55 (071) 7182 4841"
+      "admissionDate": "2022-09-18",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "18",
-      "name": "Marcelo Cardoso",
-      "document": "127.836.045-07",
-      "registration": "2021-11-07",
-      "status": "Inativo",
+      "name": "Levi Martins",
+      "document": "107.672.272-51",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "0900 026 2686"
+      "admissionDate": "2023-12-02",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "19",
-      "name": "Vitor Hugo Lopes",
-      "document": "279.358.046-56",
-      "registration": "2021-09-05",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "84 4258 9112"
+      "name": "Yasmin Farias",
+      "document": "917.651.590-54",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2022-07-14",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "20",
-      "name": "Sophia Santos",
-      "document": "045.863.921-42",
-      "registration": "2022-06-17",
-      "status": "Inativo",
-      "costCenter": "Custo B",
-      "telephone": "0800 864 7649"
+      "name": "Marcela Lopes",
+      "document": "829.328.726-29",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-02-06",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "21",
-      "name": "Luiz Gustavo Nunes",
-      "document": "789.306.215-03",
-      "registration": "2021-01-16",
-      "status": "Inativo",
-      "costCenter": "Custo B",
-      "telephone": "21 9489 6466"
+      "name": "Augusto da Cruz",
+      "document": "768.240.871-40",
+      "status": "Ativo",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-09-05",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "22",
-      "name": "Bruno Monteiro",
-      "document": "391.540.286-98",
-      "registration": "2021-01-30",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "+55 71 0203-1969"
+      "name": "Eduardo Campos",
+      "document": "589.110.442-51",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-09-21",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "23",
-      "name": "Bruno Aragão",
-      "document": "231.045.698-51",
-      "registration": "2023-08-06",
-      "status": "Pendente",
+      "name": "Rafael Ribeiro",
+      "document": "647.407.629-28",
+      "status": "Desligado",
       "costCenter": "Custo B",
-      "telephone": "+55 21 3580 5895"
+      "admissionDate": "2025-03-25",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "24",
-      "name": "Igor Vieira",
-      "document": "710.483.965-84",
-      "registration": "2022-05-24",
-      "status": "Ativo",
+      "name": "Stephany Freitas",
+      "document": "499.941.234-84",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "+55 (031) 7923 6268"
+      "admissionDate": "2021-02-25",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "25",
-      "name": "André Freitas",
-      "document": "167.048.593-57",
-      "registration": "2024-05-09",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "(071) 8521 0132"
+      "name": "Caio Santos",
+      "document": "730.933.372-56",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-04-22",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "26",
-      "name": "Stephany Araújo",
-      "document": "563.982.704-10",
-      "registration": "2020-09-25",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "0500 678 6222"
+      "name": "Luiz Cardoso",
+      "document": "773.441.195-68",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-05-17",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "27",
-      "name": "Sr. Luiz Otávio Cardoso",
-      "document": "349.165.708-39",
-      "registration": "2023-11-28",
-      "status": "Inativo",
-      "costCenter": "Custo B",
-      "telephone": "+55 84 3538 0054"
+      "name": "Bruno Cardoso",
+      "document": "783.310.744-22",
+      "status": "Ativo",
+      "costCenter": "Custo A",
+      "admissionDate": "2020-04-18",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "28",
-      "name": "Pedro Campos",
-      "document": "405.613.982-24",
-      "registration": "2023-12-06",
-      "status": "Ativo",
+      "name": "Pedro da Cunha",
+      "document": "695.156.273-18",
+      "status": "Desligado",
       "costCenter": "Custo B",
-      "telephone": "(031) 6721-8385"
+      "admissionDate": "2024-05-24",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "29",
-      "name": "Lucas Gabriel Farias",
-      "document": "320.875.914-23",
-      "registration": "2022-03-14",
-      "status": "Inativo",
+      "name": "Luiz Miguel Santos",
+      "document": "421.473.250-12",
+      "status": "Suspenso",
       "costCenter": "Custo B",
-      "telephone": "+55 84 7816 4305"
+      "admissionDate": "2025-11-19",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "30",
-      "name": "Rafael da Luz",
-      "document": "093.247.681-31",
-      "registration": "2024-01-13",
-      "status": "Pendente",
+      "name": "Sophia Freitas",
+      "document": "954.271.323-50",
+      "status": "Intermitente",
       "costCenter": "Custo B",
-      "telephone": "(051) 4808-0283"
+      "admissionDate": "2025-04-17",
+      "onboarding": "Parcial",
+      "regime": "Fixo"
     },
     {
       "id": "31",
-      "name": "João Vitor Moura",
-      "document": "217.096.538-68",
-      "registration": "2021-08-22",
-      "status": "Pendente",
-      "costCenter": "Custo A",
-      "telephone": "0900-654-3691"
+      "name": "Igor Mendes",
+      "document": "801.412.904-45",
+      "status": "Desligado",
+      "costCenter": "Custo B",
+      "admissionDate": "2025-11-11",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "32",
-      "name": "João Lucas Almeida",
-      "document": "475.801.369-10",
-      "registration": "2022-06-02",
-      "status": "Inativo",
-      "costCenter": "Custo B",
-      "telephone": "+55 84 6431-1879"
+      "name": "Luiz Miguel Teixeira",
+      "document": "799.159.462-40",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-07-05",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "33",
-      "name": "Sophia Moura",
-      "document": "569.731.024-25",
-      "registration": "2024-04-23",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "+55 (011) 3890-2512"
+      "name": "Ana Duarte",
+      "document": "881.870.316-26",
+      "status": "Desligado",
+      "costCenter": "Custo A",
+      "admissionDate": "2024-03-21",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "34",
-      "name": "Srta. Emanuella Jesus",
-      "document": "612.853.940-89",
-      "registration": "2020-08-23",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "+55 71 3415 9655"
+      "name": "Bruno Cardoso",
+      "document": "641.383.172-27",
+      "status": "Desligamento a confirmar",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-07-06",
+      "onboarding": "Parcial",
+      "regime": "Fixo"
     },
     {
       "id": "35",
-      "name": "Enrico Silva",
-      "document": "130.729.458-88",
-      "registration": "2020-06-04",
-      "status": "Inativo",
+      "name": "Augusto Ribeiro",
+      "document": "639.739.749-63",
+      "status": "Desligado",
       "costCenter": "Custo B",
-      "telephone": "81 2252-2251"
+      "admissionDate": "2021-10-17",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "36",
-      "name": "Marcela Silva",
-      "document": "097.845.126-02",
-      "registration": "2024-07-26",
-      "status": "Inativo",
+      "name": "Leandro Teixeira",
+      "document": "485.421.106-46",
+      "status": "Ativo",
       "costCenter": "Custo A",
-      "telephone": "+55 (031) 2248 5743"
+      "admissionDate": "2020-08-28",
+      "onboarding": "Parcial",
+      "regime": "Fixo"
     },
     {
       "id": "37",
-      "name": "Diego Monteiro",
-      "document": "302.541.986-51",
-      "registration": "2021-06-10",
-      "status": "Pendente",
+      "name": "Maria Luiza Freitas",
+      "document": "471.677.126-79",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "81 5816-2590"
+      "admissionDate": "2022-05-31",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "38",
-      "name": "Natália Ribeiro",
-      "document": "251.987.306-02",
-      "registration": "2021-07-04",
-      "status": "Ativo",
+      "name": "Lucas Ribeiro",
+      "document": "247.810.242-18",
+      "status": "Intermitente",
       "costCenter": "Custo B",
-      "telephone": "+55 81 2237 2974"
+      "admissionDate": "2021-09-21",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "39",
-      "name": "Thiago Costela",
-      "document": "109.562.734-16",
-      "registration": "2023-04-17",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "(031) 2706-8138"
+      "name": "Fernanda Jesus",
+      "document": "380.286.313-49",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-05-18",
+      "onboarding": "Completo",
+      "regime": "Fixo"
     },
     {
       "id": "40",
-      "name": "Camila Rodrigues",
-      "document": "861.025.479-85",
-      "registration": "2022-03-02",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "+55 (041) 2939-5742"
+      "name": "Vinícius Carvalho",
+      "document": "572.992.357-53",
+      "status": "Desligado",
+      "costCenter": "Custo A",
+      "admissionDate": "2023-07-20",
+      "onboarding": "Não iniciado",
+      "regime": "Intermitente"
     },
     {
       "id": "41",
-      "name": "Luana Silva",
-      "document": "712.469.085-49",
-      "registration": "2023-03-10",
+      "name": "Catarina Nogueira",
+      "document": "920.283.402-47",
       "status": "Ativo",
       "costCenter": "Custo B",
-      "telephone": "(051) 4629 5022"
+      "admissionDate": "2025-09-02",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "42",
-      "name": "Ana da Cruz",
-      "document": "546.178.902-11",
-      "registration": "2022-09-08",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "+55 71 9111 7296"
+      "name": "Stephany Novaes",
+      "document": "913.894.535-85",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2025-02-17",
+      "onboarding": "Completo",
+      "regime": "Intermitente"
     },
     {
       "id": "43",
-      "name": "Sr. André Correia",
-      "document": "412.967.038-78",
-      "registration": "2022-02-09",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "+55 (021) 1631-4467"
+      "name": "Benício Novaes",
+      "document": "230.353.922-67",
+      "status": "Intermitente",
+      "costCenter": "Custo A",
+      "admissionDate": "2022-01-09",
+      "onboarding": "Parcial",
+      "regime": "Fixo"
     },
     {
       "id": "44",
-      "name": "Marcelo Ribeiro",
-      "document": "473.168.952-09",
-      "registration": "2021-05-03",
-      "status": "Ativo",
+      "name": "Antônio Freitas",
+      "document": "980.399.420-51",
+      "status": "Suspenso",
       "costCenter": "Custo B",
-      "telephone": "21 6341-1883"
+      "admissionDate": "2023-02-27",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "45",
-      "name": "Luiz Miguel Costela",
-      "document": "573.641.029-06",
-      "registration": "2020-09-11",
-      "status": "Inativo",
+      "name": "Vinícius Monteiro",
+      "document": "271.919.224-48",
+      "status": "Desligamento a confirmar",
       "costCenter": "Custo B",
-      "telephone": "81 6888-8857"
+      "admissionDate": "2025-09-25",
+      "onboarding": "Parcial",
+      "regime": "Fixo"
     },
     {
       "id": "46",
-      "name": "Dr. Augusto Mendes",
-      "document": "956.742.318-00",
-      "registration": "2025-03-02",
-      "status": "Ativo",
+      "name": "Catarina Santos",
+      "document": "881.707.869-46",
+      "status": "Desligado",
       "costCenter": "Custo B",
-      "telephone": "+55 11 2632-5444"
+      "admissionDate": "2020-03-04",
+      "onboarding": "Não iniciado",
+      "regime": "Fixo"
     },
     {
       "id": "47",
-      "name": "Maria Luiza Nunes",
-      "document": "354.207.691-07",
-      "registration": "2021-11-02",
-      "status": "Ativo",
-      "costCenter": "Custo B",
-      "telephone": "0300-220-0043"
+      "name": "Rodrigo Vieira",
+      "document": "319.615.380-46",
+      "status": "Suspenso",
+      "costCenter": "Custo A",
+      "admissionDate": "2022-11-12",
+      "onboarding": "Pendente",
+      "regime": "Intermitente"
     },
     {
       "id": "48",
-      "name": "Leandro Peixoto",
-      "document": "501.693.284-06",
-      "registration": "2020-04-14",
-      "status": "Inativo",
+      "name": "Isabela Ramos",
+      "document": "396.691.578-12",
+      "status": "Ativo",
       "costCenter": "Custo B",
-      "telephone": "(051) 6826-0096"
+      "admissionDate": "2024-08-29",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "49",
-      "name": "Maria Julia Teixeira",
-      "document": "154.863.079-93",
-      "registration": "2024-11-04",
-      "status": "Pendente",
-      "costCenter": "Custo B",
-      "telephone": "+55 (031) 8944-2491"
+      "name": "Bruno Mendes",
+      "document": "626.298.627-69",
+      "status": "Ativo",
+      "costCenter": "Custo A",
+      "admissionDate": "2022-12-29",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     },
     {
       "id": "50",
-      "name": "Pedro Lucas Ramos",
-      "document": "463.157.208-62",
-      "registration": "2023-02-27",
-      "status": "Inativo",
+      "name": "Igor Cardoso",
+      "document": "441.691.240-48",
+      "status": "Ativo",
       "costCenter": "Custo B",
-      "telephone": "0500-580-1942"
+      "admissionDate": "2021-02-04",
+      "onboarding": "Pendente",
+      "regime": "Fixo"
     }
   ]
   }
