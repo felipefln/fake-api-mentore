@@ -2672,7 +2672,7 @@
       "contract": "1234567890",
       "employees": 250,
       "type": "13°",
-      "totalValue": "R$ 200.000,00",
+      "totalValue": 200.0,
       "status": "Aguardando",
       "registrationDate": "20/12/2025",
       "authorizationDate": "-"
@@ -2682,7 +2682,7 @@
       "contract": "1234567890",
       "employees": 240,
       "type": "Férias",
-      "totalValue": "R$ 186.000,00",
+      "totalValue": 186.0,
       "status": "Aguardando",
       "registrationDate": "20/11/2025",
       "authorizationDate": "-"
@@ -2692,7 +2692,7 @@
       "contract": "1234567890",
       "employees": 325,
       "type": "Recisão",
-      "totalValue": "R$ 230.000,00",
+      "totalValue": 230.0,
       "status": "Autorizado",
       "registrationDate": "20/10/2025",
       "authorizationDate": "21/10/2025"
@@ -2702,7 +2702,7 @@
       "contract": "1234567890",
       "employees": 300,
       "type": "Salário",
-      "totalValue": "R$ 200.000,00",
+      "totalValue": 200.0,
       "status": "Autorizado",
       "registrationDate": "20/09/2025",
       "authorizationDate": "21/09/2025"
@@ -2712,7 +2712,7 @@
       "contract": "1234567890",
       "employees": 412,
       "type": "Salário",
-      "totalValue": "R$ 250.000,00",
+      "totalValue": 250.0,
       "status": "Autorizado",
       "registrationDate": "20/08/2025",
       "authorizationDate": "21/08/2025"
@@ -2722,7 +2722,7 @@
       "contract": "1234567890",
       "employees": 125,
       "type": "Recisão",
-      "totalValue": "R$ 240.000,00",
+      "totalValue": 240.0,
       "status": "Processada",
       "registrationDate": "20/07/2025",
       "authorizationDate": "21/07/2025"
@@ -2732,7 +2732,7 @@
       "contract": "1234567890",
       "employees": 205,
       "type": "Salário",
-      "totalValue": "R$ 250.000,00",
+      "totalValue": 250.0,
       "status": "Processada",
       "registrationDate": "20/06/2025",
       "authorizationDate": "21/06/2025"
@@ -2742,7 +2742,7 @@
       "contract": "1234567890",
       "employees": 230,
       "type": "Salário",
-      "totalValue": "R$ 300.000,00",
+      "totalValue": 300.0,
       "status": "Processada",
       "registrationDate": "20/05/2025",
       "authorizationDate": "21/05/2025"
@@ -2752,7 +2752,7 @@
       "contract": "1234567890",
       "employees": 224,
       "type": "Recisão",
-      "totalValue": "R$ 235.000,00",
+      "totalValue": 235.0,
       "status": "Processada",
       "registrationDate": "20/04/2025",
       "authorizationDate": "21/04/2025"
@@ -2762,7 +2762,7 @@
       "contract": "1234567890",
       "employees": 250,
       "type": "Salário",
-      "totalValue": "R$ 240.000,00",
+      "totalValue": 240.0,
       "status": "Processada",
       "registrationDate": "20/03/2025",
       "authorizationDate": "21/03/2025"
@@ -2772,7 +2772,7 @@
       "contract": "1234567890",
       "employees": 300,
       "type": "Salário",
-      "totalValue": "R$ 400.000,00",
+      "totalValue": 400.0,
       "status": "Processada",
       "registrationDate": "20/02/2025",
       "authorizationDate": "21/02/2025"
