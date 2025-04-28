@@ -2777,5 +2777,117 @@
       "registrationDate": "20/02/2025",
       "authorizationDate": "21/02/2025"
     }
+  ],
+  "payrollDetails": [
+    {
+      "batchNumber": "0001",
+      "name": "João da Silva",
+      "cpfCnpj": "123.456.789-00",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "1.250,75"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Maria Oliveira",
+      "cpfCnpj": "123.456.789-01",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Aguardando",
+      "depositValue": "800,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Carlos Pereira",
+      "cpfCnpj": "123.456.789-02",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Inativo",
+      "depositValue": "1.500,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Ana Costa",
+      "cpfCnpj": "123.456.789-03",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "600,50"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Lucas Almeida",
+      "cpfCnpj": "123.456.789-04",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "1.300,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Fernanda Lima",
+      "cpfCnpj": "123.456.789-05",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Inativo",
+      "depositValue": "1.200,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Felipe Santos",
+      "cpfCnpj": "123.456.789-06",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "950,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Juliana Rodrigues",
+      "cpfCnpj": "123.456.789-07",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "700,25"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Vinícius Ferreira",
+      "cpfCnpj": "123.456.789-08",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Inativo",
+      "depositValue": "1.100,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Marco Antônio",
+      "cpfCnpj": "123.456.789-09",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "1.400,00"
+    },
+    {
+      "batchNumber": "0001",
+      "name": "Jorge Gonçalves",
+      "cpfCnpj": "123.456.789-10",
+      "type": "Salário",
+      "creationDate": "05/06/2025",
+      "paymentDate": "05/06/2025",
+      "status": "Ativo",
+      "depositValue": "1.050,75"
+    }
   ]
 }
