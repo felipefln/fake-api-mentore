@@ -2668,6 +2668,7 @@
   ],
   "payroll": [
     {
+      "id": 1,
       "batch": "00001",
       "contract": "1234567890",
       "employees": 250,
@@ -2678,6 +2679,7 @@
       "authorizationDate": "-"
     },
     {
+      "id": 2,
       "batch": "00002",
       "contract": "1234567890",
       "employees": 240,
@@ -2688,6 +2690,7 @@
       "authorizationDate": "-"
     },
     {
+      "id": 3,
       "batch": "00003",
       "contract": "1234567890",
       "employees": 325,
@@ -2698,6 +2701,7 @@
       "authorizationDate": "21/10/2025"
     },
     {
+      "id": 4,
       "batch": "00004",
       "contract": "1234567890",
       "employees": 300,
@@ -2708,6 +2712,7 @@
       "authorizationDate": "21/09/2025"
     },
     {
+      "id": 5,
       "batch": "00005",
       "contract": "1234567890",
       "employees": 412,
@@ -2718,6 +2723,7 @@
       "authorizationDate": "21/08/2025"
     },
     {
+      "id": 6,
       "batch": "00006",
       "contract": "1234567890",
       "employees": 125,
@@ -2728,6 +2734,7 @@
       "authorizationDate": "21/07/2025"
     },
     {
+      "id": 7,
       "batch": "00007",
       "contract": "1234567890",
       "employees": 205,
@@ -2738,6 +2745,7 @@
       "authorizationDate": "21/06/2025"
     },
     {
+      "id": 8,
       "batch": "00008",
       "contract": "1234567890",
       "employees": 230,
@@ -2748,6 +2756,7 @@
       "authorizationDate": "21/05/2025"
     },
     {
+      "id": 9,
       "batch": "00009",
       "contract": "1234567890",
       "employees": 224,
@@ -2758,6 +2767,7 @@
       "authorizationDate": "21/04/2025"
     },
     {
+      "id": 10,
       "batch": "00010",
       "contract": "1234567890",
       "employees": 250,
@@ -2768,6 +2778,7 @@
       "authorizationDate": "21/03/2025"
     },
     {
+      "id": 11,
       "batch": "00011",
       "contract": "1234567890",
       "employees": 300,
@@ -2780,6 +2791,7 @@
   ],
   "payrollDetails": [
     {
+      "id": 1,
       "batchNumber": "0001",
       "name": "João da Silva",
       "cpfCnpj": "123.456.789-00",
@@ -2790,6 +2802,7 @@
       "depositValue": "1.250,75"
     },
     {
+      "id": 2,
       "batchNumber": "0001",
       "name": "Maria Oliveira",
       "cpfCnpj": "123.456.789-01",
@@ -2800,6 +2813,7 @@
       "depositValue": "800,00"
     },
     {
+      "id": 3,
       "batchNumber": "0001",
       "name": "Carlos Pereira",
       "cpfCnpj": "123.456.789-02",
@@ -2810,6 +2824,7 @@
       "depositValue": "1.500,00"
     },
     {
+      "id": 4,
       "batchNumber": "0001",
       "name": "Ana Costa",
       "cpfCnpj": "123.456.789-03",
@@ -2820,6 +2835,7 @@
       "depositValue": "600,50"
     },
     {
+      "id": 5,
       "batchNumber": "0001",
       "name": "Lucas Almeida",
       "cpfCnpj": "123.456.789-04",
@@ -2830,6 +2846,7 @@
       "depositValue": "1.300,00"
     },
     {
+      "id": 6,
       "batchNumber": "0001",
       "name": "Fernanda Lima",
       "cpfCnpj": "123.456.789-05",
@@ -2840,6 +2857,7 @@
       "depositValue": "1.200,00"
     },
     {
+      "id": 7,
       "batchNumber": "0001",
       "name": "Felipe Santos",
       "cpfCnpj": "123.456.789-06",
@@ -2850,6 +2868,7 @@
       "depositValue": "950,00"
     },
     {
+      "id": 8,
       "batchNumber": "0001",
       "name": "Juliana Rodrigues",
       "cpfCnpj": "123.456.789-07",
@@ -2860,6 +2879,7 @@
       "depositValue": "700,25"
     },
     {
+      "id": 9,
       "batchNumber": "0001",
       "name": "Vinícius Ferreira",
       "cpfCnpj": "123.456.789-08",
@@ -2870,6 +2890,7 @@
       "depositValue": "1.100,00"
     },
     {
+      "id": 10,
       "batchNumber": "0001",
       "name": "Marco Antônio",
       "cpfCnpj": "123.456.789-09",
@@ -2880,6 +2901,7 @@
       "depositValue": "1.400,00"
     },
     {
+      "id": 11,
       "batchNumber": "0001",
       "name": "Jorge Gonçalves",
       "cpfCnpj": "123.456.789-10",
