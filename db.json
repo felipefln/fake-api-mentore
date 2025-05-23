@@ -2911,5 +2911,16 @@
       "status": "Ativo",
       "depositValue": "1.050,75"
     }
+  ],
+  "costCenter": [
+    { "id": 1, "number": "001", "description": "Centro de custos A", "contract": 1 },
+    { "id": 2, "number": "002", "description": "Centro de custos B", "contract": 2 },
+    { "id": 3, "number": "003", "description": "Centro de custos C", "contract": 3 },
+    { "id": 4, "number": "004", "description": "Centro de custos D", "contract": 4 },
+    { "id": 5, "number": "005", "description": "Centro de custos E", "contract": 5 },
+    { "id": 6, "number": "006", "description": "Centro de custos F", "contract": 6 },
+    { "id": 7, "number": "007", "description": "Centro de custos G", "contract": 7 },
+    { "id": 8, "number": "008", "description": "Centro de custos H", "contract": 8 },
+    { "id": 9, "number": "009", "description": "Centro de custos I", "contract": 9 }
   ]
 }
