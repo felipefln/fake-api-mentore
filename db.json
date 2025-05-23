@@ -2696,7 +2696,7 @@
       "employees": 325,
       "type": "Recisão",
       "totalValue": 230.0,
-      "status": "Autorizado",
+      "status": "Autorizada",
       "registrationDate": "2025-10-20",
       "authorizationDate": "2025-10-21"
     },
@@ -2707,7 +2707,7 @@
       "employees": 300,
       "type": "Salário",
       "totalValue": 200.0,
-      "status": "Autorizado",
+      "status": "Autorizada",
       "registrationDate": "2025-09-20",
       "authorizationDate": "2025-09-21"
     },
@@ -2718,7 +2718,7 @@
       "employees": 412,
       "type": "Salário",
       "totalValue": 250.0,
-      "status": "Autorizado",
+      "status": "Liberada",
       "registrationDate": "2025-08-20",
       "authorizationDate": "2025-08-21"
     },
@@ -2729,7 +2729,7 @@
       "employees": 125,
       "type": "Recisão",
       "totalValue": 240.0,
-      "status": "Processada",
+      "status": "Liberada",
       "registrationDate": "2025-07-20",
       "authorizationDate": "2025-07-21"
     },
@@ -2740,7 +2740,7 @@
       "employees": 205,
       "type": "Salário",
       "totalValue": 250.0,
-      "status": "Processada",
+      "status": "Concluída",
       "registrationDate": "2025-06-20",
       "authorizationDate": "2025-06-21"
     },
@@ -2751,7 +2751,7 @@
       "employees": 230,
       "type": "Salário",
       "totalValue": 300.0,
-      "status": "Processada",
+      "status": "Concluída",
       "registrationDate": "2025-05-20",
       "authorizationDate": "2025-05-21"
     },
@@ -2762,7 +2762,7 @@
       "employees": 224,
       "type": "Recisão",
       "totalValue": 235.0,
-      "status": "Processada",
+      "status": "Agendada",
       "registrationDate": "2025-04-20",
       "authorizationDate": "2025-04-21"
     },
@@ -2773,7 +2773,7 @@
       "employees": 250,
       "type": "Salário",
       "totalValue": 240.0,
-      "status": "Processada",
+      "status": "Agendada",
       "registrationDate": "2025-03-20",
       "authorizationDate": "2025-03-21"
     },
@@ -2784,7 +2784,7 @@
       "employees": 300,
       "type": "Salário",
       "totalValue": 400.0,
-      "status": "Processada",
+      "status": "Concluída",
       "registrationDate": "2025-02-20",
       "authorizationDate": "2025-02-21"
     }
