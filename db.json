@@ -2922,5 +2922,240 @@
     { "id": 7, "number": "007", "description": "Centro de custos G", "contract": 7 },
     { "id": 8, "number": "008", "description": "Centro de custos H", "contract": 8 },
     { "id": 9, "number": "009", "description": "Centro de custos I", "contract": 9 }
+  ],
+  "vouchersLote": [
+    {
+      "id": 1,
+      "fileCode": "411373",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "1.222,54"
+    },
+    {
+      "id": 2,
+      "fileCode": "423111",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "7.878,00"
+    },
+    {
+      "id": 3,
+      "fileCode": "450098",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "3.231,00"
+    },
+    {
+      "id": 4,
+      "fileCode": "422098",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "9.878,90"
+    },
+    {
+      "id": 5,
+      "fileCode": "212222",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "3.231,00"
+    },
+    {
+      "id": 6,
+      "fileCode": "212345",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "3.231,00"
+    },
+    {
+      "id": 7,
+      "fileCode": "543432",
+      "type": "Salário",
+      "contract": 205,
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "1.211,11"
+    },
+    {
+      "id": 8,
+      "fileCode": "4333223",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "3.231,00"
+    },
+    {
+      "id": 9,
+      "fileCode": "319874",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "9.878,90"
+    },
+    {
+      "id": 10,
+      "fileCode": "4012111",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "1.222,54"
+    },
+    {
+      "id": 11,
+      "fileCode": "4509878",
+      "type": "Salário",
+      "contract": "13.872.096/0001-06",
+      "registrationDate": "2025-12-20",
+      "records": "5",
+      "totalValue": "7.878,00"
+    }
+  ],
+  "vourchersIndividual": [
+    {
+      "id": 1,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Diego Aparecido",
+      "amount": "9.228,41"
+    },
+    {
+      "id": 2,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Fernando Aparecido",
+      "amount": "9.000,41"
+    },
+    {
+      "id": 3,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Felipe Aparecido",
+      "amount": "4.228,41"
+    },
+    {
+      "id": 4,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Maria Aparecido",
+      "amount": "7.228,41"
+    },
+    {
+      "id": 5,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Paula Aparecido",
+      "amount": "4.228,41"
+    },
+    {
+      "id": 6,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Maria Fernanda",
+      "amount": "7.228,41"
+    },
+    {
+      "id": 7,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Lucas da Silva",
+      "amount": "2.322,41"
+    },
+    {
+      "id": 8,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Adriana da Silva",
+      "amount": "9.228,41"
+    },
+    {
+      "id": 9,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Aline Maria",
+      "amount": "9.228,41"
+    },
+    {
+      "id": 10,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Fernanda Aparecido",
+      "amount": "9.228,41"
+    }, 
+    {
+      "id": 11,
+      "registrationDate": "2025-12-20",
+      "type": "Salário",
+      "documentSource": "13.872.096/0001-06",
+      "accountSource": "38854",
+      "source": "Empresa Teste",
+      "documentDestination": "13.872.096/0001-06",
+      "accountDestination": "41234",
+      "destination": "Paula Nascimento",
+      "amount": "9.228,41"
+    }
   ]
 }
